@@ -1,11 +1,9 @@
 # Cpp-Language-Note
-C++ Language Notes (Syntax, Data Structures, and Algorithms Cheat Sheet)
+- Here's are all of my C++ notes, ( Basic Syntax, Data Structures, and Algorithm, C++ Language Structure Cheat Sheet ) in our place. 
 
-# C++ languange notes
+# Usage
+- Clone this repository into your machine or download the zip file.
+- Donwnload your favorite IDE or text editor of choice, I recommend Vscode, sublime, or Neovim, you may also use Obsidian md to open the file if you wanted to save it as notebook style.
+- Or you can browse the topic here, just click the folders and read, and Fork this repo for later use. 
+- Would highly recommend you to write all the structures, boiler plate, Basic syntax to familiarize yourself to c++ languange. 
 
-## C++ Cheat sheet
-- Here's are all of my c++ notes, Boiler plate, Variables, Basic syntax, Data Types, Conditional statement, and the c++ language structure in one place.
-
-## Usage
-- Clone this repo into your machine or download zip file.
-- Would recommend to write all the structures, boiler plate, Basic syntax to familiarize your self to c++ languange.
