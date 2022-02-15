@@ -1,5 +1,5 @@
 # Cpp-Language-Note
-- Here's are all of my C++ notes, ( Basic Syntax, Data Structures, and Algorithm, C++ Language Structure Cheat Sheet ) in our place. 
+- Here's are all of my C++ notes, ( Basic Syntax, Data Structures, and Algorithm, C++ Language Structure Cheat Sheet ) all in one place. 
 
 # Usage
 - Clone this repository into your machine or download the zip file.
