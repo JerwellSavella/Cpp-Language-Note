@@ -2,7 +2,7 @@
 - Here's are all of my C++ notes, ( Basic Syntax, Data Structures, and Algorithm, C++ Language Structure Cheat Sheet ) all in one place. 
 - Some of data structures and algorithms in C++ here are collected and tampered from commonly used reviewers which are used for google, Nasa, Amazon and Netflix interviews.
 - This will be updated for next couple of weeks since this one aren't done yet. Hope you find it usefull.
-- Feel free to submit a PR if you wanted modify any mistakes from it, will greatly appreciate it... 
+- Feel free to submit a PR if you wanted to modify any mistakes from it, will greatly appreciate it... 
 
 ## Usage
 - Clone this repository into your machine or download the zip file.
