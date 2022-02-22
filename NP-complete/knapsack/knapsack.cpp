@@ -14,7 +14,7 @@
 
     Author
     ------
-    Fedurko Nikolaus (@B1Z0N)
+    Fedurko Nikolaus
 */
 
 
