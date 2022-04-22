@@ -10,7 +10,7 @@ int main () {
     cin >> grade;
  
    // check the boolean condition
-   if( grade >= 3 ) {
+   if( grade <= 3 ) {
       // if condition is true then print the following
       cout << "Congrats! Your Passed the semester!" << endl;
    } else {

@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 
+/*Create a program that will calculate the sum and difference of two numbers.*/
 
 int main() {
 //interact with the program by entering two values into the variable.
