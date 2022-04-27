@@ -1,4 +1,4 @@
-// Answer = (A + B +C)/Y
+// 1. Answer = (A + B +C)/Y
 
 #include <iostream>
 #include <cmath>
@@ -6,7 +6,7 @@
 using namespace std;
 
 int main() {
-   float ans, a, b, c, y;
+   double ans, a, b, c, y;
 
         cout << "Input the value of A: ";
         cin >> a;
