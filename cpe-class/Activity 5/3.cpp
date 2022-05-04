@@ -25,7 +25,7 @@ using namespace std;
             cout << "Fair";
         }
         else if (grade <= 74 & grade > 0) {
-        cout << "Input a Valid Grade";
+        cout << "Fail";
         }
 
     return 0;
