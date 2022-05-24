@@ -1,12 +1,5 @@
-#include <iostream>
-#include <ctime>
-#include <cstdlib>
-using namespace std;
-
-int main ()
-{
-    const int ARRAY_SIZE = 20;
-    srand(time(0)); 
+const int ARRAY_SIZE = 20;
+    srand(time(0)); //seed random number
     
 
     string Brady[ARRAY_SIZE] = {"Savella", "Abigail", "Mark", "Joshua", "Rob", "Eddie", "Nick", "Ben", "Loid" "Franky", "Ian", "Caburong", "Lea", "Elliot", "Nial", "Kian", "Anya", "Bill", "Yor", "Forger"};
@@ -23,5 +16,3 @@ int main ()
         cout << Brady[i] << endl;
     }
     return 0;
-
-}
