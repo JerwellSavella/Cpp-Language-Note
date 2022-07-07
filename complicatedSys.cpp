@@ -19,6 +19,7 @@ const std::string currentDateTime() {
 
     return buf;
 }
+
 int main()
 {
 	system("mode 100");

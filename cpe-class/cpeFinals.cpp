@@ -12,6 +12,7 @@ using namespace std;
         int choice = 0,pchoice,pchoice1, quantity;// time=40;
         int pay = 0;
         int change = 0;
+
         
         public:
             void Main(){
